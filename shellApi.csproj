@@ -27,7 +27,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Server.IISIntegration" Version="1.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.Server.Kestrel" Version="1.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.1" />
-    <PackageReference Include="Microsoft.Data.OData" Version="5.8.2" />
+    <PackageReference Include="Microsoft.Data.OData" Version="5.8.4" />
     <PackageReference Include="microsoft.entityframeworkcore" Version="1.1.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="1.1.1" />
     <PackageReference Include="microsoft.entityframeworkcore.sqlserver.design" Version="1.1.2" />
